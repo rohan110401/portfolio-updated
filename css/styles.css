@@ -1,0 +1,207 @@
+body{
+    font-family: "Montserrat";
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: "Montserrat-Bold" ;
+}
+
+p{
+    color: black ;
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+
+q{
+   margin: 10% 10%;
+}
+
+
+.big-heading{
+    font-family: "Montserrat-Black";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.section-heading{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.container-fluid{
+    padding: 7% 15%;
+  }
+
+  .colored-section {
+    background-color: #83BD75;
+    color: #fff;
+  }
+  
+  .white-section {
+    background-color: #fff;
+  }
+
+  .navbar {
+    padding: 0 0 4.5rem;
+  }
+
+  .navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+
+  .nav-item {
+    padding: 0 18px;
+  }
+  
+  .nav-link {
+    color: black;
+    font-size: 1.4rem;
+    font-family: "Montserrat-Light";
+   
+  }
+
+  #title {
+    
+    color: #fff;
+    text-align: left;
+  }
+
+  #title .container-fluid {
+    padding: 3% 15% 7%;
+  }
+
+  .title-image {
+    width: 60%;
+   
+  }
+
+  #skills{
+      position: relative;
+  }
+  
+  #projects{
+    background-color:#83BD75;
+    color: #fff;
+}
+
+.pro-heading
+{
+  padding-top: 50px;
+  color: black;
+  
+}
+.project-title{
+    font-weight: bolder;
+    font-size: 3rem;
+}
+
+.project-text{
+    font-size: 1.5rem;
+  line-height: 1.5;
+}
+#education{
+  
+    padding: 3% 3%;
+}
+#awards{
+    background-color: #fff;
+    color: black;
+}
+
+.awards-sub{
+    padding-top: 40px;
+    padding-bottom: 5px;
+}
+
+.awards-text{
+    color: #8f8f8f;
+    font-size: 1.5rem;
+}
+
+
+.get{
+  font-size: 3rem;
+  padding-top: 0;
+}
+.contact-text{
+  margin-top: 30px;
+}
+
+.btn {
+    background: black;
+    background-image: -webkit-linear-gradient(top, black, black);
+    background-image: -moz-linear-gradient(top, black, black);
+    background-image: -ms-linear-gradient(top, black, black);
+    background-image: -o-linear-gradient(top, black, black);
+    background-image: linear-gradient(to bottom, black, black);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin: 50px 50px 50px 50px;
+  }
+  
+  .btn:hover {
+    
+    background: white;
+    background-image: -webkit-linear-gradient(top,  white,  white);
+    background-image: -moz-linear-gradient(top,  white,  white);
+    background-image: -ms-linear-gradient(top,  white,  white);
+    background-image: -o-linear-gradient(top,  white,  white);
+    background-image: linear-gradient(to bottom,  white,  white);
+    text-decoration: none;
+    margin: 50px 50px 50px 50px;
+  }
+  
+  .bottom-container{
+    background-color: white;
+  }
+  .copy{
+    font-size: 1rem;
+  }
+  
+  .footer-link{
+    font-size: 1.5rem;
+    margin: 0 10px 20px 10px;
+    color: #83BD75;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+  }
+  
+  .footer-link:hover{
+    color: black;
+  }
+
+#intern-link{
+    padding: 10% 10%;
+    font-size: 1.5rem;
+    margin: 0 10px 20px 10px;
+    color: #83BD75;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+#intern-link:hover{
+    color: black;
+  }
+
+.ed-sub{
+    color: black;
+}
+
+#ed-sec{
+    padding: 6% 6%;
+}
+.intern-des{
+    padding: 1% 1%;
+    font-size: 1.2rem;
+}
+.dev{
+    padding: 1% 1%;
+}
